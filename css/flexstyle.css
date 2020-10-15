@@ -1,0 +1,39 @@
+
+
+.flexcontainer  {
+    display: flex;
+    flex-direction: row;
+    margin:10px;  
+    align-items: center;
+    justify-items: center;
+}
+
+.skill1 {
+    width: 33%;
+    padding:0px 30px 10px 30px;
+    margin:10px;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+
+.title  {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bodyContent    {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.subTitle   {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.placeholder    {
+    display: flex;
+    padding: 15px 0px 0px 0px;
+    max-width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
